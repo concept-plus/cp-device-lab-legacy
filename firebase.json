@@ -1,0 +1,8 @@
+{
+  "database": {
+    "rules": "FirebaseSetup/rules.json"
+  },
+  "hosting": {
+    "public": "PiLabFrontEnd"
+  }
+}
